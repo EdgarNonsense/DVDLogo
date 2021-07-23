@@ -1,0 +1,8 @@
+What happens if you change WIDTH, HEIGHT = bext.size() on line 20 to WIDTH, HEIGHT = 10, 5?
+The size of the DVD bouncing logo would bechanged 
+
+What happens if you replace DIR: random.choice(DIRECTIONS) on line 52 with DIR: DOWN_RIGHT?
+
+How can you make the 'Corner bounces:' text not appear on the screen?
+
+What error message do you get if you delete or comment out cornerBounces = 0 on line 57?
